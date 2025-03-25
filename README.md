@@ -1,4 +1,3 @@
-﻿# StoreSales_WebAPI
 # StoreSalesAPI - ASP.NET Core Web API
 
 Este é um projeto de API Web criado com ASP.NET Core e .NET 8.0, destinado a gerenciar as vendas de uma loja, incluindo a funcionalidade de registrar, consultar, atualizar e cancelar vendas. A API segue uma arquitetura limpa e é projetada para ser escalável e facilmente testável.
